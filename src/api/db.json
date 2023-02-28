@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "test",
+      "description": "test",
+      "price": "32",
+      "id": 1,
+      "category_id" : 1
+    },
+    {
+      "name": "sf",
+      "description": "sdgsdg",
+      "price": "1234",
+      "id": 2,
+      "category_id" : 2
+    }
+  ],
+
+  "categories" : [
+      {
+        "id":1,
+        "name" : "Teknoloji",
+        "desc" : "Teknolojik aletler bu kategoride yer alır."
+      },
+      {
+        "id" : 2,
+        "name":"Kırtasiye",
+        "desc" :"Kırtasiye ürünleri bu kategoride yer alıcaktır."
+      }
+  ]
+}
